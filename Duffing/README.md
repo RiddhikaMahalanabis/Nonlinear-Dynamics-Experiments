@@ -48,5 +48,11 @@ where:
 - **Time series** showing oscillatory or chaotic motion.  
 - **Phase portrait** showing the attractor in \((x, \dot{x})\)-space.  
 
+---
 
+## Example results : Phase portrait for $\gamma = 0.3$, $\omega = 1.2$ :
+
+<p align="center">
+  <img src="https://github.com/RiddhikaMahalanabis/Nonlinear-Dynamics-Experiments/blob/main/Duffing_PP.png?raw=true" width="400">
+</p>
 
