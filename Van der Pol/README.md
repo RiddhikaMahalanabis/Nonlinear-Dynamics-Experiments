@@ -1,4 +1,4 @@
-# van der Pol Oscillator
+# Van der Pol Oscillator
 
 The **van der Pol oscillator** is a classical nonlinear system originally introduced to model self-sustaining oscillations in electrical circuits with vacuum tubes.  
 It is one of the most fundamental examples of a **limit cycle oscillator**: trajectories starting from different initial conditions converge to a unique stable periodic orbit.
