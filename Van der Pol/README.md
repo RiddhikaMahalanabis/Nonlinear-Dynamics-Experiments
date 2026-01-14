@@ -9,30 +9,26 @@ It is one of the most fundamental examples of a **limit cycle oscillator**: traj
 
 The van der Pol oscillator is defined by the second-order ODE:
 
-\[
-\ddot{x} - \mu (1 - x^2)\dot{x} + x = 0
-\]
+
+$\ddot{x} - \mu (1 - x^2)\dot{x} + x = 0$
+
 
 where:
 
 | Symbol | Meaning | Typical value |
 |:-------:|:---------|:---------------|
-| \( \mu \) | nonlinearity / damping parameter | 0.5 – 5.0 |
+| $\mu$ | nonlinearity / damping parameter | 0.5 – 5.0 |
 
 ### First-order form
 To integrate numerically, we rewrite it as a system:
 
-\[
-\dot{x} = y
-\]
+$\dot{x} = y$
 
-\[
-\dot{y} = \mu (1 - x^2) y - x
-\]
+$\dot{y} = \mu (1 - x^2) y - x$
 
 When:
-- \( \mu = 0 \): reduces to a simple harmonic oscillator.
-- \( \mu > 0 \): exhibits nonlinear damping leading to a stable limit cycle.
+- $\mu = 0$: reduces to a simple harmonic oscillator.
+- $\mu > 0$: exhibits nonlinear damping leading to a stable limit cycle.
 
 
 ---
