@@ -47,12 +47,9 @@ The motion becomes aperiodic and explores both wells, leading to a strange attra
 
 ### Time evolution comparison :
 
-<img src="Duffing/Time_series_comparison.png" width="400" alt="Alt text">
+<img src="Time_series_comparison.png" width="800" alt="Alt text">
 
 
-<!-- <p align="center">
-  <img src="https://github.com/RiddhikaMahalanabis/Nonlinear-Dynamics-Experiments/blob/main/Duffing_PP.png?raw=true" width="400"> 
-</p> -->
 
 
 ---
