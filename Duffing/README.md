@@ -94,6 +94,8 @@ While periodic motion results in a small number of discrete points, chaotic moti
 
 ## How to Run
 
+Requirements : numpy, matplotlib, scipy
+
 1. Open the notebook in Google Colab
 2. Run all cells
 3. Modify parameters in the parameter cell:
