@@ -5,7 +5,7 @@ It models the motion of a damped, driven oscillator with a nonlinear restoring f
 
 ---
 
-## 🧩 Governing Equation
+## Governing Equation
 
 
 $\ddot{x} + \delta \dot{x} + \alpha x + \beta x^3 = \gamma \cos(\omega t)$
@@ -23,7 +23,7 @@ where:
 
 ---
 
-## 🧮 Dynamics
+## Dynamics
 
 - The system reduces to a **linear harmonic oscillator** when $\beta = 0$.
 - For  $\alpha < 0$ and  $\beta > 0$ , the potential has a **double-well** shape.
