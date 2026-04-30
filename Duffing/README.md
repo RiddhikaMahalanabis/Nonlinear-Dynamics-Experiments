@@ -33,6 +33,29 @@ where:
   - Chaotic motion (large forcing)
 
 ---
+## Dynamical Regimes
+
+The Duffing oscillator exhibits qualitatively different behavior depending on the forcing amplitude $\gamma$.
+
+### Periodic regime ($\gamma = 0.2$)
+
+The system oscillates regularly within a single well of the potential.
+
+### Chaotic regime ($\gamma = 0.3$)
+
+The motion becomes aperiodic and explores both wells, leading to a strange attractor in phase space.
+
+### Time evolution comparison :
+
+<img src="Duffing/Time_series_comparison.png" width="400" alt="Alt text">
+
+
+<!-- <p align="center">
+  <img src="https://github.com/RiddhikaMahalanabis/Nonlinear-Dynamics-Experiments/blob/main/Duffing_PP.png?raw=true" width="400"> 
+</p> -->
+
+
+---
 
 ## Files in this Folder
 
@@ -50,9 +73,4 @@ where:
 
 ---
 
-## Example results : Phase portrait for $\gamma = 0.3$, $\omega = 1.2$ :
-
-<p align="center">
-  <img src="https://github.com/RiddhikaMahalanabis/Nonlinear-Dynamics-Experiments/blob/main/Duffing_PP.png?raw=true" width="400">
-</p>
 
