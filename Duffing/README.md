@@ -49,8 +49,11 @@ The motion becomes aperiodic and explores both wells, leading to a strange attra
 
 <img src="Time_series_comparison.png" width="800" alt="Alt text">
 
+### Phase portrait comparison :
+<img src="Phase_portrait_comparison.png" width="800" alt="Alt text">
 
-
+### Poincare section comparison :
+<img src="poincare_comparison.png" width="800" alt="Alt text">
 
 ---
 
